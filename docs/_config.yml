@@ -2,7 +2,7 @@ repository: gallavee/mylib1
 output: web
 topnav_title: mylib1
 site_title: mylib1
-company_name: ?
+company_name: gal
 description: A description of your project
 # Set to false to disable KaTeX math
 use_math: true
